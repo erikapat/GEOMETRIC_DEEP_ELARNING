@@ -1,2 +1,2 @@
-# GEOMETRIC_DEEP_ELARNING
+# GEOMETRIC DEEP LEARNING
 Collection of materials of this particular research area.
